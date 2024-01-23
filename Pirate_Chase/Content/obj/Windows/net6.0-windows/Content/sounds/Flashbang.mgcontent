@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Downloads/3rd term/Prog2370/Pirate_ChaseV19/Pirate_Chase/Pirate_Chase/Content/sounds/Flashbang.wav</SourceFile>
+  <SourceTime>2023-12-09T19:27:12-05:00</SourceTime>
+  <DestFile>D:/Downloads/3rd term/Prog2370/Pirate_ChaseV19/Pirate_Chase/Pirate_Chase/Content/bin/Windows/Content/sounds/Flashbang.xnb</DestFile>
+  <DestTime>2024-01-22T20:15:52-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

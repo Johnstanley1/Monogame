@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/fonts/HighlightFont.spritefont</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/fonts/RegularFont.spritefont</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/actionScreen.jpg</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/background.jpg</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/Backround.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/Bad_Ship.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/bombExplosion.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/CBall.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/credits.jpg</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/Credits.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/creditScreen.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/drop.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/EnemyBomb.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/enemyShip.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/enemyShip3.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/enemyShip4.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/ForceFieldSpriteSheet.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/Good_Ship.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/helpScreen.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/highscore.gif</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/jet1.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/jet2.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/level2bullet.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/level3Bullet.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/levelSelect.jpg</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/seaLevel2.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/seaLevel3.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/singleDrop.jpeg</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/startScreen.jpg</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/images/thunder.png</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/sounds/creditSound.mp3</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/sounds/firing.wav</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/sounds/Flashbang.wav</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/sounds/heroic-intro-21468.mp3</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/sounds/intro.mp3</File>
+    <File>C:/Users/austi/Desktop/Quarentine/Pirate_Chase18/Pirate_Chase16/Pirate_Chase/Pirate_Chase/Content/sounds/introSound.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
